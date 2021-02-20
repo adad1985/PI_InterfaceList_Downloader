@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/com.sap.aii.af.cpa.svc.api.jar"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/com.sap.aii.af.lib.mod.jar"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/com.sap.aii.af.ms.ifc_api.jar"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/com.sap.aii.mapping.api.filter.jar"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/com.sap.aii.utilxi.core.jar"/>
+	<classpathentry kind="lib" path="C:/Shared_AD/3/Libs/sap.com~tc~logging~java~impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/AD/ICO_LIST_EXCEL/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/AD/docx/library.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D072889/Desktop/AD/ICO_LIST_EXCEL/console-3.1.100-v20060605.jar/console-3.1.100-v20060605.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
